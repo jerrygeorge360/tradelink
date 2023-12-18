@@ -78,6 +78,7 @@ macos
 linux
 test
 windows
+web
 # iOS/XCode related
 **/ios/**/*.mode1v3
 **/ios/**/*.mode2v3
